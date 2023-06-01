@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Mac OSX files
+.DS_Store
+
+__archive/
+
+NatureMed Mpox Response*
